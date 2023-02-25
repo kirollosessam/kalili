@@ -1,5 +1,5 @@
 <?php include "include/header.php"?>
-
+<!--kokok edsssama-->
         <!-- Hero section start -->
         <section class="bg-primary relative pt-[130px] lg:pt-[80px] xl:pt-[0px] mb-[70px] lg:mb-[0px]">
             <div class="hero-slider overflow-hidden">
