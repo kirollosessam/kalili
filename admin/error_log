@@ -1,0 +1,184 @@
+[08-Feb-2022 03:57:16 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 04:16:40 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 05:06:16 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 05:32:28 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 06:37:56 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 14:27:19 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 14:27:24 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 20:59:10 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:00 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:02 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:31 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:31 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:31 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[08-Feb-2022 21:00:31 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[09-Feb-2022 01:30:20 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[09-Feb-2022 02:04:09 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[09-Feb-2022 18:36:06 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[09-Feb-2022 20:10:28 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[10-Feb-2022 11:11:51 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[10-Feb-2022 13:32:18 UTC] PHP Notice:  Undefined index: cat_image in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/function/adminCategory.php on line 101
+[11-Feb-2022 23:14:22 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[12-Feb-2022 00:11:55 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/elmohterf.wmaeg.com/admin/include/header2.php on line 6
+[12-Feb-2022 00:30:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fashoin1'@'localhost' (using password: YES) in /home/va2e4i0c7l9j/public_html/fashion.wmaeg.com/include/db.php on line 8
+[12-Feb-2022 00:30:59 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/fashion.wmaeg.com/admin/include/header2.php on line 6
+[16-Feb-2022 06:45:22 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/gosto.wmaeg.com/admin/include/header2.php on line 6
+[16-Feb-2022 07:44:27 UTC] PHP Notice:  Undefined index: username in /home/va2e4i0c7l9j/public_html/gosto.wmaeg.com/admin/include/header2.php on line 6
+[19-Mar-2022 19:03:46 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/cestlavie.wmaeg.com/admin/include/nav_left.php on line 18
+[19-Mar-2022 19:03:46 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/cestlavie.wmaeg.com/admin/include/nav_left.php on line 19
+[19-Mar-2022 19:03:46 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/cestlavie.wmaeg.com/admin/include/header2.php on line 6
+[19-Mar-2022 19:03:46 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/cestlavie.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 11:14:17 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 11:14:17 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 11:14:17 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 11:14:17 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 11:14:20 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 11:14:20 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 11:14:20 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 11:14:20 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:18:29 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 12:18:29 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 12:18:29 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:18:29 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:30:59 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 12:30:59 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 12:30:59 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:30:59 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:31:15 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 12:31:15 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 12:31:15 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 12:31:15 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 22:02:28 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[30-Mar-2022 22:02:28 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[30-Mar-2022 22:02:28 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[30-Mar-2022 22:02:28 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 16:48:18 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 16:48:18 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 16:48:18 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 16:48:18 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 16:48:40 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 16:48:40 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 16:48:40 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 16:48:40 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 19:06:37 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 19:06:37 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 19:06:37 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 19:06:37 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 19:07:21 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 19:07:21 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 19:07:21 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 19:07:21 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 21:24:16 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 21:24:16 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 21:24:16 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 21:24:16 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 22:45:05 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[31-Mar-2022 22:45:05 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[31-Mar-2022 22:45:05 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[31-Mar-2022 22:45:05 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[01-Apr-2022 19:35:55 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[01-Apr-2022 19:35:55 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[01-Apr-2022 19:35:55 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[01-Apr-2022 19:35:55 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[01-Apr-2022 21:31:06 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[01-Apr-2022 21:31:06 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[01-Apr-2022 21:31:06 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[01-Apr-2022 21:31:06 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[02-Apr-2022 00:54:50 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[02-Apr-2022 00:54:50 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[02-Apr-2022 00:54:50 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[02-Apr-2022 00:54:50 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 18
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/nav_left.php on line 19
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/include/header2.php on line 6
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_firestname in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 64
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_lastname in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 70
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_email in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 83
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_password in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 87
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_role in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 92
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_id in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 98
+[24-Apr-2022 09:04:04 UTC] PHP Warning:  Undefined variable $user_role in /home/va2e4i0c7l9j/public_html/ghenwa.wmaeg.com/admin/profile.php on line 98
+[11-May-2022 16:37:04 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[11-May-2022 16:37:04 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[11-May-2022 16:37:04 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[11-May-2022 16:37:04 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[12-May-2022 19:47:29 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[12-May-2022 19:47:29 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[12-May-2022 19:47:29 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[12-May-2022 19:47:29 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[12-May-2022 19:47:36 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[12-May-2022 19:47:36 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[12-May-2022 19:47:36 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[12-May-2022 19:47:36 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[13-May-2022 00:33:08 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[13-May-2022 00:33:08 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[13-May-2022 00:33:08 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[13-May-2022 00:33:08 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[13-May-2022 15:07:00 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[13-May-2022 15:07:00 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[13-May-2022 15:07:01 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[13-May-2022 15:07:01 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[14-May-2022 11:40:12 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[14-May-2022 11:40:12 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[14-May-2022 11:40:12 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[14-May-2022 11:40:12 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[14-May-2022 11:47:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php:126
+Stack trace:
+#0 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php(126): mysqli_fetch_assoc()
+#1 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/edit_product.php(94): admin_products->select_categry_product()
+#2 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/product.php(36): include('/home/va2e4i0c7...')
+#3 {main}
+  thrown in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 126
+[14-May-2022 11:49:17 UTC] PHP Warning:  Undefined variable $selectcateis in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 122
+[14-May-2022 11:49:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php:125
+Stack trace:
+#0 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php(125): mysqli_fetch_assoc()
+#1 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/edit_product.php(94): admin_products->select_categry_product()
+#2 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/product.php(36): include('/home/va2e4i0c7...')
+#3 {main}
+  thrown in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 125
+[14-May-2022 11:49:26 UTC] PHP Warning:  Undefined variable $selectcateis in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 122
+[14-May-2022 11:49:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php:125
+Stack trace:
+#0 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php(125): mysqli_fetch_assoc()
+#1 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/edit_product.php(94): admin_products->select_categry_product()
+#2 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/product.php(36): include('/home/va2e4i0c7...')
+#3 {main}
+  thrown in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 125
+[14-May-2022 11:55:00 UTC] PHP Warning:  Undefined variable $product_category_id in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 121
+[14-May-2022 11:55:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php:123
+Stack trace:
+#0 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php(123): mysqli_fetch_assoc()
+#1 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/edit_product.php(94): admin_products->select_categry_product()
+#2 /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/product.php(36): include('/home/va2e4i0c7...')
+#3 {main}
+  thrown in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/function/admin_products.php on line 123
+[15-May-2022 21:33:46 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[15-May-2022 21:33:46 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[15-May-2022 21:33:46 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[15-May-2022 21:33:46 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[23-May-2022 16:56:03 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 18
+[23-May-2022 16:56:03 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/nav_left.php on line 19
+[23-May-2022 16:56:03 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[23-May-2022 16:56:03 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/foodstation.wmaeg.com/admin/include/header2.php on line 6
+[30-May-2022 11:54:27 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/sporatextile.com/admin/include/nav_left.php on line 18
+[30-May-2022 11:54:27 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/sporatextile.com/admin/include/nav_left.php on line 19
+[30-May-2022 11:54:27 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/sporatextile.com/admin/include/header2.php on line 6
+[30-May-2022 11:54:27 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/sporatextile.com/admin/include/header2.php on line 6
+[11-Jun-2022 21:19:36 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 18
+[11-Jun-2022 21:19:36 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 19
+[11-Jun-2022 21:19:36 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[11-Jun-2022 21:19:36 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[14-Jun-2022 17:42:35 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 18
+[14-Jun-2022 17:42:35 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 19
+[14-Jun-2022 17:42:35 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[14-Jun-2022 17:42:35 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[15-Jun-2022 21:25:40 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 18
+[15-Jun-2022 21:25:40 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 19
+[15-Jun-2022 21:25:40 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[15-Jun-2022 21:25:40 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[17-Jun-2022 09:56:01 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 18
+[17-Jun-2022 09:56:01 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/nav_left.php on line 19
+[17-Jun-2022 09:56:01 UTC] PHP Warning:  Undefined array key "username" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
+[17-Jun-2022 09:56:01 UTC] PHP Warning:  Undefined array key "user_role" in /home/va2e4i0c7l9j/public_html/gusto.wmaeg.com/admin/include/header2.php on line 6
